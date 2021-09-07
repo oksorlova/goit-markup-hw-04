@@ -471,7 +471,7 @@ ul {
 /*footer*/
 
 .footer-section {
-  background-color: #2f303a; /*временно*/
+  background-color: #2f303a;
 }
 .address-list {
   color: var(--primary-white-color);
